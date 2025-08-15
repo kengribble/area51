@@ -2,8 +2,10 @@
 
 A Testing Repo
 
-TODO
-Create directories
-Add some files
-Commit
-Do a few feature branches and merge them
+##TODO
+
+- Create directories
+- Add some files
+- Commit
+- Do a few feature branches and merge them
+- learn more about jj
