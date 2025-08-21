@@ -11,4 +11,5 @@ A Testing Repo
 - learn more about jj
 - Let's do some fancy jj stuff
 - Let's do some more fancy jj stuff
-- how does split work?
+- how does split work? Who knows
+- am I editing?
