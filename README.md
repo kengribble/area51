@@ -3,15 +3,9 @@
 A Testing Repo
 
 ## TODO
+- [ ] learn more jj
+- [ ] learn about split
 
-- Create directories
-- Add some files
-- Commit
-- Do a few feature branches and merge them
-- learn more about jj
-- Let us do some fancy jj stuff
-- Let's do some more fancy jj stuff
-- how does split work? Who knows
-- am I editing?
-- Still conflicted, but that's okay
-- Will this conflicT?
+# Refrences
+
+https://steveklabnik.github.io/jujutsu-tutorial/introduction/introduction.html
