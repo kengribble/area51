@@ -5,6 +5,7 @@ A Testing Repo
 ## TODO
 - [ ] learn more jj
 - [ ] learn about split
+- [ ] learn more about jj git push
 
 # Refrences
 
