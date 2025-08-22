@@ -9,7 +9,9 @@ A Testing Repo
 - Commit
 - Do a few feature branches and merge them
 - learn more about jj
-- Let's do some fancy jj stuff
+- Let us do some fancy jj stuff
 - Let's do some more fancy jj stuff
 - how does split work? Who knows
 - am I editing?
+- Still conflicted, but that's okay
+- Will this conflicT?
