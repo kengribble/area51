@@ -6,6 +6,7 @@ A Testing Repo
 - [ ] learn more jj
 - [ ] learn about split
 - [ ] learn more about jj git push
+- [ ] play with pull requests
 
 # Refrences
 
